@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  platformsh-backup:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-08-17T02:19:55.161154055Z"
+    description: A Helm chart to backup Platform.sh sites to S3 or SFTP from Kubernetes
+    digest: f634a9bf6d70d3145ba58eb58ce0658cda6680ae07a6cc94c5ecd557eaacf6fa
+    name: platformsh-backup
+    type: application
+    urls:
+    - https://ten7.github.io/platformsh-backup-helm/platformsh-backup-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-08-17T02:19:55.160456938Z"
